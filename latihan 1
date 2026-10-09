@@ -1,0 +1,3 @@
+# Latihan 1: pola angka menurun menggunakan perulangan for
+for i in range(7, 1, -1):
+    print(str(i) * i)
